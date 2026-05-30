@@ -295,11 +295,6 @@ SMOTE augmentation provides the best balance for this CBC classification task by
 - Dhyana Schirra
 - Alessandro Visione
 
-## Course Information
-
-Project 3 - [Course Name/Number]  
-Semester: [Semester/Year]
-
 ## References
 
 1. Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). "SMOTE: Synthetic Minority Over-sampling Technique." *Journal of Artificial Intelligence Research*, 16, 321-357.
